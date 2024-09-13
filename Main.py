@@ -22,4 +22,3 @@ while running:
 
 pygame.quit()
 
-pygame.quit()
