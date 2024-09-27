@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afcc966d-c977-4e96-8e2e-f366c670c34e" name="Changes" comment="third commit" />
+    <list default="true" id="afcc966d-c977-4e96-8e2e-f366c670c34e" name="Changes" comment="third commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +81,9 @@
       <workItem from="1726232590524" duration="4208000" />
       <workItem from="1726577919422" duration="182000" />
       <workItem from="1726578533744" duration="3256000" />
+      <workItem from="1727096795061" duration="2490000" />
+      <workItem from="1727271001372" duration="616000" />
+      <workItem from="1727441854179" duration="2627000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -131,6 +137,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/FeedTheDragon$Main.coverage" NAME="Main Coverage Results" MODIFIED="1726581205858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedTheDragon$Main.coverage" NAME="Main Coverage Results" MODIFIED="1727445408108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
